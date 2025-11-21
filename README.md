@@ -67,13 +67,5 @@ jupyter notebook iris_species_decisiontree.ipynb
 - **Issues & PRs:**: Open issues or pull requests for bugs, suggested improvements, or enhancements.
 - **Style:**: Keep changes focused, add tests or a short note in the PR describing the change, and ensure reproducibility where possible.
 
-**License & Contact**
-- **License:**: This project does not include a license file; add one if you intend to share or allow reuse. A permissive choice is the MIT License.
+**Contact**
 - **Contact:**: For questions or help, open an issue in the repository or contact the maintainer (repository owner).
-
----
-
-If you want, I can also:
-- add a `requirements.txt` and a simple `run` script,
-- add short example outputs to the README after running the script locally,
-- or update the notebook to include additional visualizations (decision boundary plots, feature importances) — tell me which you'd prefer.
