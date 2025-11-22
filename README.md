@@ -63,7 +63,7 @@ jupyter notebook iris_species_decisiontree.ipynb
 - **Data:** The dataset is loaded at runtime from `sklearn.datasets` — no external data files are required.
 - **Outputs:** The script prints evaluation metrics and may save figures or a trained model if implemented.
 
-**Contributing**
+**Contribution**
 - **Issues & PRs:**: Open issues or pull requests for bugs, suggested improvements, or enhancements.
 - **Style:**: Keep changes focused, add tests or a short note in the PR describing the change, and ensure reproducibility where possible.
 
